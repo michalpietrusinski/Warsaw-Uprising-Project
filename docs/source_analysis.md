@@ -1,6 +1,6 @@
 # Source Analysis
 
-Step 1) We initially searched for any scholarly website that contain the necessary data for the historical event of Warsaw 
+We initially searched for any scholarly website that contain the necessary data for the historical event of Warsaw 
 
 Uprising. After checking several websites and searches, we concluded the best website that other sources utilize for research 
 

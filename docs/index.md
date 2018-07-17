@@ -4,6 +4,8 @@
 
 ![Banner](http://www.warsawuprising.com/images/bann.png)
 
+---
+
 Our group’s research topic is the Warsaw Uprising (Polish: Powstanie Warszawskie) that occurred during World War II. The 
 
 Uprising began on 1 August 1944 and ended on 2 October 1944 furthermore, it was a major part of a nationwide operation 
@@ -17,10 +19,6 @@ was seen largely as a “mopping-up” operation; however, it turned out to be a
 stand and defend “fortress” Warsaw as the Soviets halted their offensive. The uprising lasted not one but nine weeks, turning 
 
 into the longest and bloodiest urban insurgency of the Second World War.
-
----
-
-Replace this, putting the introduction/summary of your project here. Leave the credits in the bottom section, however.
 
 ---
 

@@ -2,17 +2,9 @@
 
 ---
 
-<figure>
-
 ![Banner](http://www.warsawuprising.com/images/bann.png)
 
-<figcaption>
-
-*Put a caption to your image here, if you want*
-
-</figcaption>
-
-</figure>
+*Put a caption to your image here, if you want*=
 
 1. Put an intro image above (if you want)
 2. Change the 1st line of this file to the name of your project

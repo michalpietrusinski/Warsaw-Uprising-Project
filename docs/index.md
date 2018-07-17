@@ -4,12 +4,19 @@
 
 ![Banner](http://www.warsawuprising.com/images/bann.png)
 
-*Put a caption to your image here, if you want*=
+Our group’s research topic is the Warsaw Uprising (Polish: Powstanie Warszawskie) that occurred during World War II. The 
 
-1. Put an intro image above (if you want)
-2. Change the 1st line of this file to the name of your project
-3. Replace this list with the names of your group members, linking to email or github accounts (if you want)
-4. Remember to also add your credits, introductions/summarys to the mkdocs.yml and README.md and docs/credits.md files.
+Uprising began on 1 August 1944 and ended on 2 October 1944 furthermore, it was a major part of a nationwide operation 
+
+referred to as "Operation Tempest", launched at the time of the Soviet Lublin–Brest Offensive. The main Polish objectives were 
+
+to drive the Germans out of Warsaw while helping the Allies defeat Germany. The Uprising was expected to last about a week and 
+
+was seen largely as a “mopping-up” operation; however, it turned out to be a miscalculation. The Germans decided to make a 
+
+stand and defend “fortress” Warsaw as the Soviets halted their offensive. The uprising lasted not one but nine weeks, turning 
+
+into the longest and bloodiest urban insurgency of the Second World War.
 
 ---
 

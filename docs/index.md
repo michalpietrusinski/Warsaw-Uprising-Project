@@ -4,7 +4,7 @@
 
 <figure>
 
-![Replace Me, Sample Image](imgs/caesarian_code.png)
+![Banner](http://www.warsawuprising.com/images/bann.png)
 
 <figcaption>
 

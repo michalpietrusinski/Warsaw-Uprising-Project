@@ -12,7 +12,7 @@ related articles, books, and other written material that is used to tell the sto
 
 that maintains the website is called “Project InPosterum”. 
 
-![Picture](imgs/projectin posterum)
+![Picture](imgs/projectin posterum.png)
 
 Since our project thesis centers around the witnesses, we decided to focus on the witnesses page of the website. 
 

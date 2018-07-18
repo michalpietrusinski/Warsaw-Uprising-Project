@@ -12,23 +12,7 @@ related articles, books, and other written material that is used to tell the sto
 
 that maintains the website is called “Project InPosterum”. 
 
-This website has been developed and maintained by Project InPosterum [Latin – for the future], 
-
-HTTP://WWW.PROJECTINPOSTERUM.ORG, a nonprofit, public benefit corporation established in 2004 in California with the following 
-
-purpose:
-
-"The corporation is organized for the specific purpose of preserving and promoting selected subjects of World War II history 
-
-and its aftermath, with a focus on Central and Eastern Europe, through facilitating the growth and development of online and 
-
-traditional publishing resources of related documents and information for the general public with a special attention toward 
-
-students."
-
-To learn more about the genesis of this site, read [ WHY THIS SITE WAS CREATED?   ]
-
-To contact us, send email to: info[at]projectinposterum.org – replace [at] with @ when emailing.
+![Picture](Screen Shot 2018-07-17 at 7.59.14 PM
 
 Since our project thesis centers around the witnesses, we decided to focus on the witnesses page of the website. 
 

@@ -6,3 +6,5 @@ The conclusion we were able to come to was obtained through the topic modeling v
 
 The information did not give us the desired conclusion due to several difficulties such as language barriers and lack of proper data formatting. If there was a way to organize the data collected correctly more discoveries could be made. 
 
+---
+

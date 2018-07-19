@@ -1,7 +1,7 @@
 # Workflow
 
 We used Webscraper to scrape data from [WarsawUprisng.com](warsawuprising.com/witnesses). We chose this tool because it is the most efficient way to collect information from the website. 
-![picture](imgs/Witnesses)
+![picture](imgs/Witnesses.png)
 
 ---
 

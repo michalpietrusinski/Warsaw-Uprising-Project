@@ -18,6 +18,20 @@ Since our project thesis centers around the witnesses, we decided to focus on th
 
 ![Picture](imgs/Witnesses.png)
 
+During the initial data search towards the Warsaw Uprising Project, We have discovered the Word War 2 data base – [WW2db.com](https://ww2db.com/battle_spec.php?battle_id=150)
+
+![Picture](imgs/Picture6.png)
+
+After detail examination of the data base, We have decided to focus on the article and data analysis of John Radzilowski - a professor at the University of Alaska Southeast. John is the author or co-author of many books including Community of Strangers, A Traveller's History of Poland, and The Eagle and the Cross. In 1998, he received the Cavalier's Cross of the Order of Merit from the President of the Republic of Poland.
+Also, the detail timeline and described and interactive map showing the events of the Uprising demonstrates the Polish and Soviet movements and measures along the 63 days of the fighting.
+His article written mostly from the Polish perspective is a great source of the information and it examines the Warsaw Uprising in the timeline of major skirmishes with the Nazi. 
+
+![Picture](imgs/Picture7.png)
+
+Furthermore, the [WW2 data base](https://ww2db.com/photo.php?list=search&sp=&startRow=0&keyword=&source=all&color=all&foreigntype=B&foreigntype_id=150&dt=&image_id=) has many authentic photographs from the time of the uprising. Which we will use towards our project
+
+![Picture](imgs/Picture8.png)
+
 ---
 
 ## Basic Source Information

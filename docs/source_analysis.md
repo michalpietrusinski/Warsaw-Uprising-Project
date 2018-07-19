@@ -6,11 +6,11 @@ Uprising. After checking several websites and searches, we concluded the best we
 
 is warsawuprising.com. The website is a collection of information about the Warsaw Uprising. On the front page of the website 
 
-shows there are links to FAQ, timeline, witnesses, photos, movies, songs, and other resources. The resources are linked to 
+shows there are links to: FAQ, timeline, witnesses, photos, movies, songs, and other resources. The resources are linked to 
 
 related articles, books, and other written material that is used to tell the story about the Warsaw Uprising. The organization 
 
-that maintains the website is called “Project InPosterum”. 
+that maintains the website is called “Project InPosterum”.
 
 ![Picture](imgs/projectin_posterum.png)
 

@@ -30,7 +30,7 @@ Since our project thesis centers around the witnesses, we decided to focus on th
 
 ## Authorship
 
-Web creation link [warsawuprising.com/about](http://www.warsawuprising.com/about.htm)
+Website creation link [warsawuprising.com/about](http://www.warsawuprising.com/about.htm)
 
 * There is information discussing how the information was gathered and for what purpose. The link provided above reveals why the site was created.
 We are not sure how transparent the project is about the choices they have made, but we would assume that since it is a nonprofit organization and for public benefit. The organization is held accountable and at a high standard.
@@ -40,7 +40,5 @@ We do not believe the organization has any unstated agendas or goals.
 
 ## Data Analysis
 
-* The datasets involved reflect the view-points of particular groups i.e. the [Word War 2 Data base](https://ww2db.com/battle_spec.php?battle_id=150) is a perfect example of a Polish Resistence (Armia Krajowa) reflection of the Uprising from a scholar perspecive. On the other hand the [warsawuprising.com](http://www.warsawuprising.com/witness.htm) has view points from the German / Russian and Polish side.
-* What kinds of categorizations do you find in the data, and do they seem reasonable?
-* Do the means of data collection or categorization affect how the data is constructed in any way?
-* Does the website contain any tools for visualizing the data? Do they seem like they are making any kind of arguments?
+* The datasets involved reflect the view-points of particular groups i.e. the [Word War 2 Data base](https://ww2db.com/battle_spec.php?battle_id=150) is a perfect example of a Polish Resistence (Armia Krajowa) reflection of the Uprising from a scholar perspecive. On the other hand the [warsawuprising.com](http://www.warsawuprising.com/witness.htm) has view points from the German, Russian and Polish side.
+* The website contains very minimum tools for visualizing the data and they are representing clear arguments towards the Uprsing.

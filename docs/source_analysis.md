@@ -18,7 +18,7 @@ Since our project thesis centers around the witnesses, we decided to focus on th
 
 ![Picture](imgs/Witnesses.png)
 
-During the initial data search towards the Warsaw Uprising Project, We have discovered the Word War 2 data base – [WW2db.com](https://ww2db.com/battle_spec.php?battle_id=150)
+During the initial data search towards the Warsaw Uprising Project, We have discovered the [Word War 2 data base](https://ww2db.com/battle_spec.php?battle_id=150)
 
 ![Picture](imgs/Picture6.png)
 

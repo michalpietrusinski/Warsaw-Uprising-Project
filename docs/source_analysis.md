@@ -24,9 +24,9 @@ Since our project thesis centers around the witnesses, we decided to focus on th
 
 ## Basic Source Information
 
-* Where is your source located (URL? Or traditional media)
-* What kind of source is it? (Diaries, records of objects, data tables, etc...)
-* Who, or what organization, is responsible for hosting the source (if online), who gathered the information?
+* Our source is located http://www.warsawuprising.com/witness.htm
+* Our source is a record of the Uprisng and a data table of the major events / witnesses accounts.
+* The organization responsible for hosting of our source is Project InPosterum.
 
 ---
 

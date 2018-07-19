@@ -11,4 +11,14 @@ From Orange 3, we used the widgets corpus, preprocess text, topic modeling, dist
 ![picture](imgs/Picture2.png)
 ![picture](imgs/Picture3.png)
 
+---
+
+# Tableau
+
+After adding all the scraped data about the Warsaw Uprising I uploaded it as the csv file. Next, I plugged in the data sets and tried to visuals and separate the data via columns, rows by the classification of all the items. Also, also I separated the data to dates, events and the timeline of the major events.
+![picture](imgs/Picture4.png)
+![picture](imgs/Picture5.png)
+
+
+
 

@@ -18,8 +18,6 @@ Since our project thesis centers around the witnesses, we decided to focus on th
 
 ![Picture](imgs/Witnesses.png)
 
-
-**You SHOULD revise your source analysis if you already did one for the given website.**
 ---
 
 ## Basic Source Information

@@ -16,7 +16,7 @@ that maintains the website is called “Project InPosterum”.
 
 Since our project thesis centers around the witnesses, we decided to focus on the witnesses page of the website. 
 
-![Picture](imgs/witnesses.png)
+![Picture](imgs/Witnesses.png)
 
 
 **You SHOULD revise your source analysis if you already did one for the given website.**

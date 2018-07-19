@@ -22,13 +22,15 @@ Since our project thesis centers around the witnesses, we decided to focus on th
 
 ## Basic Source Information
 
-* Our source is located at (http://www.warsawuprising.com/witness.htm)
+* Our source is located at [warsawuprising.com](http://www.warsawuprising.com/witness.htm)
 * Our source is a record of the Uprisng and a data table of the major events / witnesses accounts.
 * The organization responsible for hosting of our source is Project InPosterum.
 
 ---
 
 ## Authorship
+
+Web creation link [warsawuprising.com/about](http://www.warsawuprising.com/about.htm)
 
 * There is information discussing how the information was gathered and for what purpose. The link provided above reveals why the site was created.
 We are not sure how transparent the project is about the choices they have made, but we would assume that since it is a nonprofit organization and for public benefit. The organization is held accountable and at a high standard.

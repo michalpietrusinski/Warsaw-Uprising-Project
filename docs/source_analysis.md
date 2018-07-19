@@ -22,7 +22,7 @@ Since our project thesis centers around the witnesses, we decided to focus on th
 
 ## Basic Source Information
 
-* Our source is located http://www.warsawuprising.com/witness.htm
+* Our source is located at http://www.warsawuprising.com/witness.htm
 * Our source is a record of the Uprisng and a data table of the major events / witnesses accounts.
 * The organization responsible for hosting of our source is Project InPosterum.
 

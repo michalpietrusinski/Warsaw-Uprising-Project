@@ -30,13 +30,11 @@ Since our project thesis centers around the witnesses, we decided to focus on th
 
 ## Authorship
 
-* Is there any information available discussing the process by which the information was gathered, or how the digital project was constructed?
-* How transparent is the project about the choices they made in gathering and transforming the data for digitalization? [Click here for an example of a an excellent 'About' page from a database about Anglo-Saxons](http://www.pase.ac.uk/about/index.html)
-* Do the organizations or individuals involved in gathering and publishing your data set have any stated goals or agendas?
-* Do the organizations or individuals involved seem to have any unstated agendas or goals?
-* If a 3rd party funded the project, who are they? Do they have any particular perspective?
+* There is information discussing how the information was gathered and for what purpose. The link provided above reveals why the site was created.
+We are not sure how transparent the project is about the choices they have made, but we would assume that since it is a nonprofit organization and for public benefit. The organization is held accountable and at a high standard.
+The organizations goal is to preserve the history of the Warsaw Uprising, which is clearly stated in their website.
+I do not believe the organization has any unstated agendas or goals.
 
----
 
 ## Data Analysis
 

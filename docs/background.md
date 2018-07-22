@@ -46,10 +46,16 @@ Nevertheless, judged by collected evidence and taking everything into considerat
 Therefore based the judgment on the evidences presented the answer to the research question is the Soviet Union. The Soviet Union was responsible for the limited areal support for the AK during the Warsaw Uprising in 1944.
 
 
+
 ###
 
 
-WORKS CITED
+
+* WORKS CITED
+
+
+###
+
 
 
 Ciechanowski Jan M., Powstanie Warszawskie. Zarys podłoża politycznego i dyplomatycznego (angielski tytuł), Pułtusk-Warsaw: Bellona, 2004 (Baised on the Edition from London 1971)

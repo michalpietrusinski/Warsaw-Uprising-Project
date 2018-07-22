@@ -9,6 +9,8 @@ Borodziej, Włodzimierz (2006). The Warsaw Uprising of 1944. Translated by Barba
 
 Chen, C. Peter. "World War II Database." WW2DB. Accessed July 10, 2018.https://ww2db.com/photo.php?								source=all&color=all&list=search&foreigntype=B&foreig	ntype_id=150.
 
+Davies Norman, Powstanie ’44. Bitwa o Warszawe [Rising ’44. The Battle for Warsaw] Trans and ed. Elżbieta Tabakowska, Cracow: 	Znak, 2004.
+
 Duraczyński, Eugeniusz; Terej, Jerzy Janusz (1974). Europa podziemna: 1939-1945 [Europe underground: 1939-1945] (in 		Polish). Warszawa: Wiedza Powszechna. OCLC 463203458
 
 Jan Nowak-Jeziorański (1982). Courier from Warsaw. Detroit: Wayne State University Press. ISBN 978-0-8143-1725-9.
@@ -26,6 +28,8 @@ LICHTEN, JOSEPH L., and Harold B. Segel. "THE WARSAW GHETTO UPRISING: 	LEGEND AN
 
 Nowożycki, Bartosz. "Soldiers of the Home Army Group “Radosław” After the Fall of the Warsaw Uprising and the End of World 		War II." The Polish Review 61, no. 2 (2016): 45-	65. doi:10.5406/polishreview.61.2.45.
 
+Pobóg-Malinowski Władysław, Najnowsza Historia Polityczna Polski Okres 1939-1945 [Recent Political History of Poland Period 	1939-1945] Gdansk: Graf, 1990.
+
 Poland in Exile - The Warsaw Rising. Accessed July 10, 2018. http://www.polandinexile.com/rising.htm.
 
 Richard J. Kozicki, Piotr Wróbel (eds), Historical Dictionary of Poland, 966–1945, Greenwood 	Press, 1996, ISBN 0-313-26007-	9, Google Print, p. 34
@@ -35,9 +39,13 @@ World War 2: Warsaw Uprising 1944." World War 2: Warsaw Uprising 1944. Accessed 
 Yaacov Falkov, "'For our freedom and yours’: Discovering the transnational dimension of the 	Warsaw Uprising (August–		October 1944)", Transnational Resistance Blog, 	24.8.2016, http://transnationalresistance.history.ox.ac.uk/2016/08/24/for-our-freedom-and-yours-discovering-the-transnational-dimension-of-the-warsaw-uprising-august-october-1944
 
 
----
 
-## Project Credits
+
+## 
+
+
+
+Project Credits
 
 ## The proud creators of this project: Michal Pietrusinki and Norberto Martinez  - Warsaw Uprising Project 4Life !
 

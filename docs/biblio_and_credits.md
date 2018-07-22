@@ -47,7 +47,7 @@ Yaacov Falkov, "'For our freedom and yours’: Discovering the transnational dim
 * [Norberto Martinez](Martinez33@mail.usf.edu)
 
 
-## The Best Class we ever had ----> Thank you Professor[David J. Thomas](https://github.com/thePortus)!!!
+## The Best Class we ever had ----> Thank you Professor [David J. Thomas](https://github.com/thePortus)!!!
 
 ---
 

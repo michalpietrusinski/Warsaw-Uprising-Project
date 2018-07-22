@@ -1,6 +1,6 @@
 # Initial Findings
 
-The conclusion we were able to come to was obtained through the topic modeling visual from Orange3. We determined that from the warsaw uprising website the data collected had covered from the different perspectives of German, Polish, and Russian. 
+In conclusion we were able to come to was obtained through the topic modeling visual from Orange3. We determined tha the Warsaw Uprising website and the data collected had covered from the different perspectives of German, Polish, and Russian. 
 
 ![picture](imgs/Picture9.png)
 

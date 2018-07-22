@@ -5,8 +5,6 @@
 ## Project Bibliography
 
 
-                                                 Bibliography
-
 Borodziej, Włodzimierz (2006). The Warsaw Uprising of 1944. Translated by Barbara Harshav. 	University of Wisconsin Press. 		ISBN 978-0-299-20730-4 p. 74
 
 Chen, C. Peter. "World War II Database." WW2DB. Accessed July 10, 2018.https://ww2db.com/photo.php?								source=all&color=all&list=search&foreigntype=B&foreig	ntype_id=150.

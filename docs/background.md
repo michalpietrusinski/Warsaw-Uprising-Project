@@ -74,7 +74,7 @@ Telegram fourth of August 1944 from the Staff of the Allied air forces command t
 
 Zamoyski Adam, The Polish Way: a thousand year history of Poles and their culture, London: John Murray Publishers Ltd, 1999.
 
-Warsaw Upraising Museum Staff, 49. Zrzuty, http://www.1944.pl/o_muzeum/ekspozycja/hala_z_liberatorem/49_zrzuty/ (accessed 12 February 2012) 
+Warsaw Upraising Museum Staff, 49. Zrzuty, http://www.1944.pl/o_muzeum/ekspozycja/hala_z_liberatorem/49_zrzuty/ (accessed 22 July 2018) 
 
 
 ## Digital Background

@@ -2,7 +2,7 @@
 
 As we mentioned before the information acquired by us did not give us the desired conclusion due to several difficulties such as language barriers and lack of proper data formatting. If there was a way to organize the data collected correctly more discoveries could be made.
 
-[Picture](imgs/Picture11.png)
+![Picture](imgs/Picture11.png)
 
 Our group’s main goal was to analyze text from the eye witnesses during the Warsaw Uprising and comparing it with the both sides of the conflict. A few road blocks we hit were the language barriers where some of the text could not be analyzed due to some words written in Polish and some of the scrapped data was difficult to organize appropriately within the time frame.
 

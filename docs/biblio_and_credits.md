@@ -5,7 +5,7 @@
 ## Project Bibliography
 
 
-                                                     Bibliography
+                                                 Bibliography
 
 Borodziej, Włodzimierz (2006). The Warsaw Uprising of 1944. Translated by Barbara Harshav. 	University of Wisconsin Press. 		ISBN 978-0-299-20730-4 p. 74
 
@@ -41,8 +41,13 @@ Yaacov Falkov, "'For our freedom and yours’: Discovering the transnational dim
 
 ## Project Credits
 
-* Michal Pietrusinki / Norberto Martinez
+## The proud creators of this project: Michal Pietrusinki and Norberto Martinez  - Warsaw Uprising Project 4Life !
+
 * [Michal Pietrusinski](mailto:michalp@mail.usf.edu) 
+* [Norberto Martinez](Martinez33@mail.usf.edu)
+
+
+## The Best Class we ever had ----> Thank you Professor[David J. Thomas](https://github.com/thePortus)!!!
 
 ---
 

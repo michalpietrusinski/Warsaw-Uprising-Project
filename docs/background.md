@@ -2,13 +2,23 @@
 
 ---
 
-Put a general discussion of your topic here. Don't get into the historiography or scholarship here. Just introduce to your reader what your topic is. What is the 'problem', the 'question', and/or the 'argument'.
-
-YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
+The main idea of the Project Warsaw Uprising is to present and analyze the differences between the witness accounts from the period of the 63 days of the heroic fighting of 1944. The analysis of the Polish Home Army – AK (Armia Krajowa), the German soldiers SS (Schutzstaffel) and the Russian Army soldiers peacefully waiting on the other side of the Vistula river. Furthermore, the timeline of the major battles / skirmishes of the Uprising located in the various neighborhoods of the Warsaw.
 
 ---
 
 ## Historical Background
+
+
+
+
+
+
+
+
+
+
+
+
 
 Put a discussion of any relevant historigraphy you think relates to the topic.You can discuss the historiography of specific times and places, but you can also discuss any theoretical literature you think is relevant.
 
